@@ -1,0 +1,45 @@
+
+.form{
+    margin: 50px;
+    text-align: right;
+    border: 3px solid rgb(70, 177, 234);
+    background-color: coral;
+    align-items: center;
+    justify-content: center;
+}
+
+td label{
+    font-weight: bold;
+}
+
+.btn-enviar{
+    width: 68%;
+    margin-top: 20px;
+    border: none;
+    height: 40px;
+    background: aqua;
+    font-size: 20px;
+}
+
+.btn-enviar:hover{
+    background: rgb(48, 139, 5);
+    color: white;
+}
+
+input{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.agenda{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.persona{
+    border: 1px solid rgb(88, 96, 54);
+    background-color: beige;
+    text-align: center;
+    margin: 50px;
+}
